@@ -1,0 +1,5 @@
+Task 1 run instruction:
+Run the java class file in the command line from the folder where you have extracted the file
+using the following command:
+
+$: java Task3
